@@ -4,4 +4,4 @@ description: A presentation on clustering
 
 # build settings
 markdown: kramdown
-theme: Architect
+theme: architect
