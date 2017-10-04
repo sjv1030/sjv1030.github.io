@@ -1,3 +1,7 @@
 theme: jekyll-theme-architect
 title: Welcome to Silverio J. Vasquez's Presentation!
 description: A presentation on clustering
+
+# build settings
+markdown: kramdown
+theme: Architect
